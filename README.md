@@ -1,11 +1,16 @@
 # Run Python Selenium Multiple Tabs Tests on TestMu AI (Formerly LambdaTest)
 
+<p align="center">
+  <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
+  <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
+</p>
+
 [![TestMu AI](https://img.shields.io/badge/TestMu%20AI-Formerly%20LambdaTest-blue)](https://www.testmuai.com)
 [![Selenium](https://img.shields.io/badge/Selenium-Python-green)](https://www.testmuai.com/support/docs/selenium-automation-capabilities/)
 
 ## Getting Started
 
-If you want to handle multiple tabs using an automation test in Python-selenium on TestMu AI (Formerly LambdaTest), you can use the following steps. You can refer to sample test repo [here](https://github.com/LambdaTest/python-selenium-sample).
+If you want to handle multiple tabs using an automation test in Python-selenium on TestMu AI (Formerly TestMu AI (Formerly LambdaTest)), you can use the following steps. You can refer to sample test repo [here](https://github.com/LambdaTest/python-selenium-sample).
 
 Sign up for a free account at [TestMu AI](https://www.testmuai.com) and visit the [documentation](https://www.testmuai.com/support/docs/selenium-automation-capabilities/) to get started.
 
@@ -35,15 +40,15 @@ driver.switch_to.window("2")
 python lambdatest.py
 ```
 
-## TestMu AI (Formerly LambdaTest) Community
+## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Community
 
 Connect with testers and developers in the [TestMu AI Community](https://community.testmuai.com/). Ask questions, share what you are building, and discuss best practices in test automation and DevOps.
 
-## TestMu AI (Formerly LambdaTest) Certifications
+## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Certifications
 
 Earn free [TestMu AI Certifications](https://www.testmuai.com/certifications/) for testers, developers, and QA engineers. Validate your skills in Selenium, Cypress, Playwright, Appium, Espresso and more. Industry-recognized, shareable on LinkedIn, and built by practitioners, not marketers.
 
-## Learning Resources by TestMu AI (Formerly LambdaTest)
+## Learning Resources by TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
 
 Learn modern testing through tutorials, guides, videos, and weekly updates:
 
